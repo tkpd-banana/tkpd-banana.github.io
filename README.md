@@ -1,5 +1,12 @@
 ## TKPD Banana Squad
 
+- Intro (#intro)
+- Workflow (#workflow)
+- CSS (#css)
+- JS (#js)
+- Media Queries (#mediaqueries)
+- Framework (#framework)
+
 You can use the [editor on GitHub](https://github.com/tkpd-banana/tkpd-banana.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
