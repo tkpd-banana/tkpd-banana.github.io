@@ -8,7 +8,6 @@
 - [Framework](./#framework)
 - [Project List](./#project)
 
-<a name="project"></a>
 ## Project List
 - [Blog Tokopedia](https://blog.tokopedia.com/)
 - [TopPicks](https://www.tokopedia.com/toppicks/)
