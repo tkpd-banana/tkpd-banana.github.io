@@ -1,6 +1,7 @@
 # TKPD Banana Squad
 
 - [Intro](./#intro)
+- [Wordpress Templating](./wordpress-templating/index.html)
 - [Workflow](./#workflow)
 - [CSS](./#css)
 - [JS](./#js)

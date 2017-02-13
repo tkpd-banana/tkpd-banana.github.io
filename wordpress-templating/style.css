@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:400,700');
+
+body {
+	height: 100%;
+	background-color: #EAEAEA;
+	font-family: "Oxygen";
+	margin: 0 0 0 250px;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	display: block;
+}
+
+h1 {
+	font-size: 34px;
+	margin: 0;
+}
+
+h3 {
+	font-size: 20px;
+	margin: 0;
+}
+
+i {
+	font-weight: 700;
+}
+
+section {
+	margin: 40px 0;
+}
+
+.sidebar {
+	position: fixed;
+	width: 250px;
+	height: 100%;
+	color: #FFF;
+	background-color: #42B549;
+	margin: 0;
+	padding: 0;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.sidebar-ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.sidebar__a {
+	display: block;
+	padding: 15px 10px;
+	color: #FFF;
+}
+
+.sidebar__a:hover {
+	background: rgba(0, 0, 0, 0.05);
+}
+
+.wrap-container {
+	max-width: 1000px;
+	margin: 50px 50px;
+}
+
+.title__p {
+	margin: 15px 0;
+	width: 500px;
+	font-size: 18px;
+}
+
+.title__p--intro {
+	color: rgba(0, 0, 0, 0.54);
+}
+
+.title__p--gray {
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.title__img {
+	width: 50px;
+	height: auto;
+}
+
+#hierarchy {
+
+}
+
+.hierarchy__img {
+	width: 80%;
+}
+
+.hierarchy__a {
+	font-weight: 700;
+	color: #42B549;
+}
+
+.hierarchy__p {
+	width: 600px;
+}
+
+#obligatory {
+
+}
+
+.obligatory__img {
+	width: 80%;
+}
+
+.obligatory__a {
+	font-weight: 700;
+	color: #42B549;
+}
+
+.obligatory__p {
+	width: 600px;
+}
+
+#minimal {
+
+}
+
+.minimal__img {
+	width: 80%;
+}
+
+.minimal__a {
+	font-weight: 700;
+	color: #42B549;
+}
+
+.minimal__p {
+	width: 600px;
+}
+
+#index {
+
+}
+
+.index__img {
+	width: 80%;
+}
+
+.index__img--margin {
+	margin: 10px 0;
+}
+
+.index__a {
+	font-weight: 700;
+	color: #42B549;
+}
+
+.index__p {
+	width: 600px;
+}
+
+#management {
+
+}
+
+.management__img {
+	width: 80%;
+}
+
+.management__img--margin {
+	margin: 10px 0;
+}
+
+.management__a {
+	font-weight: 700;
+	color: #42B549;
+}
+
+.management__p {
+	width: 600px;
+}
